@@ -1,9 +1,9 @@
 # Proyecto Metodología de Sistemas I 💻
 
 ## Pasos para levantar el proyecto localmente 🚀
-1. Clonar localmente el proyecto con `https://github.com/leandrofiore3/PROYECTO-PRINCIPAL-Metodologia-de-Sistemas-I.git`
+1. Clonar localmente el proyecto con `git@github.com:cristianvena18/utn-claim-project.git`
 
-2. Entrar a la carpeta del proyecto con `cd PROYECTO-PRINCIPAL-Metodologia-de-Sistemas-I/` 
+2. Entrar a la carpeta del proyecto con `cd utn-claim-project/server` 
 
 3. Instalar las dependencias con el comando `npm i`
 
